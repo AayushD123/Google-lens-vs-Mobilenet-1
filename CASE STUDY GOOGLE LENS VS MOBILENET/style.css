@@ -1,0 +1,34 @@
+p
+{
+    color:red;
+    letter-spacing:3px ;
+   
+
+
+}
+
+span{
+letter-spacing: 1px;
+}
+
+.heading{
+    letter-spacing: 3px;
+
+}
+.google_lens
+{
+    letter-spacing: 3px;
+}
+
+.img{
+    margin-top:9px;
+    margin-bottom: 10px;
+    height: 300px;
+     border-radius: 10px;
+
+}
+
+.white1
+{
+    color:white;
+}
